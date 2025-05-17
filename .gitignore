@@ -1,0 +1,25 @@
+# Arduino IDE build folder
+build/
+*.hex
+*.elf
+*.bin
+
+# Backup or temporary files
+*.bak
+*.tmp
+*.log
+
+# Compiled object files
+*.o
+*.d
+*.a
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Arduino libraries folder (if stored inside project)
+libraries/
+
+# Secret keys or credentials (if used)
+secrets.h
