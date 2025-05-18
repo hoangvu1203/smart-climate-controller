@@ -30,6 +30,7 @@ This project implements a real-time climate control system on an ESP32-S3 (YoloU
 | Heartbeat LED | D48           |
 
 ## 📁 Project Structure
+<pre>
 project_climate/
 ├── src/
 │ ├── main.ino # Main entrypoint
@@ -43,7 +44,7 @@ project_climate/
 ├── docs/ # Block diagram, FSM, timing chart
 ├── .gitignore
 └── README.md
-
+</pre>
 
 ## 🚀 How It Works
 
